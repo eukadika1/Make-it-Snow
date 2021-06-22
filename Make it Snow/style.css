@@ -1,0 +1,16 @@
+body {
+    text-align: center;
+}
+
+canvas {
+    border: 1px solid grey;
+    background-color: black
+}
+
+button {
+    border-radius: 15px;
+    padding: 10px 90px;
+    font-size: 15px;
+    background-color: white;
+    border-color: black;
+}
